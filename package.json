@@ -1,0 +1,22 @@
+{
+  "name": "w4-inclass",
+  "version": "1.0.0",
+  "description": "A backend workbook in class",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YitingLiu97/W4-Inclass.git"
+  },
+  "author": "Yiting Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YitingLiu97/W4-Inclass/issues"
+  },
+  "homepage": "https://github.com/YitingLiu97/W4-Inclass#readme",
+  "dependencies": {
+    "metal-name": "^1.3.1"
+  }
+}
